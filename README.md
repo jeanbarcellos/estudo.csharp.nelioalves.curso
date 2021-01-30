@@ -1,3 +1,4 @@
+*Repositório apenas para estudo*
 # Curso: C# COMPLETO Programação Orientada a Objetos + Projetos | Nélio Alves
 
 Códigos gerado a partir do curso '**Curso C# COMPLETO 2020 Programação Orientada a Objetos + Projetos**'
@@ -9,9 +10,6 @@ Instrutor:
 Referências:
 
 - https://www.udemy.com/course/programacao-orientada-a-objetos-csharp/
-
-<br>
-<br>
 
 # Conteúdo do curso
 
