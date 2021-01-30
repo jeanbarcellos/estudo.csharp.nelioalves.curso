@@ -1,4 +1,4 @@
-# Seção 03: Recapitulação de Lógica de Programação
+# Seção 03 - Recapitulação de Lógica de Programação
 
 13. Visão geral do capítulo
 14. Material de apoio do capítulo
